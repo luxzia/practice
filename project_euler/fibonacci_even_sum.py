@@ -1,3 +1,12 @@
+"""
+From Project Euler:
+By considering the terms in the Fibonacci sequence whose values do not exceed four million, find
+the sum of the even-valued terms.
+
+I wrote a general solution
+"""
+
+
 def fibonacci_even_sum(num):
     """
     INPUT: an integer greater than or equal to zero
